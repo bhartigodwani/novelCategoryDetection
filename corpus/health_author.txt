@@ -1,0 +1,19 @@
+frequency	name
+5		Andrew Well
+7		Dallas Hartwig
+1		Jonathan Safran Foer
+8		Lisa Genova
+17		Nat Hawes
+2		Anne Rice
+10		Cathy Wilson
+8		Kimberley Snyder
+5		Bernice McFadden
+15		Edgar Cayce
+12		Francisco Contreras
+1		Roald Dahl
+3		Timothy Ferriss
+16		Marion Nestle
+13		Chris Crowley
+10		Nora Roberts
+13      Des Cummings
+14      Kamal Kanand         

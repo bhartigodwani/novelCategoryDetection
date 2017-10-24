@@ -1,0 +1,19 @@
+frequency	name
+10		William Peter Blatty
+18		Thomas Harris
+6		Stephen King
+1		Peter Benchley
+12		Dame Daphne du Maurier
+7		Anne Rice
+11		Poppy Z. Brite
+5		elizabeth kostova
+9		John Wyndham
+15		Andrew Zuckerman
+12		Karen Robards
+2		James Herbert
+13		Rebecca Stott
+6		Amrut Pattnaik
+16		Charlie Higson
+3		Bernice McFadden
+7		Roald Dahl
+10      Tim Miller

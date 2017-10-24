@@ -1,0 +1,16 @@
+frequency	name
+11		Colleen Hoover
+5		Kelli Pryor
+7		Julie Garwood
+1		K.E. Lane
+15		Nora Roberts
+3		Julia Quinn
+7		Anne Rice
+7		H. A. Rey
+1		Julianne Donaldson
+5		Bernice McFadden
+10		Danielle Steel
+5		Nora Roberts
+7		Mieke Bal
+1		Marcus Pfister
+10		Michael Ford

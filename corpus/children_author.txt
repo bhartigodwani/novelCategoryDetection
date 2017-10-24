@@ -1,0 +1,14 @@
+frequency	name
+10		Norton Juster
+7		Kate DiCamillo
+12		Shel Silverstein
+18		Dr. Seuss
+3		P. D. Eastman
+10		Marcus Pfister
+1		H. A. Rey
+1		Roald Dahl
+7		Jane Yolen
+4		Debbie Taylor
+13		mark miller
+1		Anne Rice
+4		Lisa Genova
