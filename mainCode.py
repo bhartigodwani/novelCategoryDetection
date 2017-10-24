@@ -34,7 +34,7 @@ def get_imgfiles(path):
   all_files=[]
   all_files.extend([join(path,fname)
       for fname in glob.glob(path+"/*")])
-  #print all_files
+  #print all_files 
   return all_files
 
 for training_names,label in zip(training_names,range(ds_names)):
